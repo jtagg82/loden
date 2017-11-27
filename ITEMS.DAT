@@ -1,0 +1,36 @@
+0,"Fist",1,3,0
+1,"Dagger",1,4,1
+2,"Short Sword",1,6,1
+3,"Glaive",1,6,1
+4,"Staff",1,6,0
+5,"Club",1,6,0
+6,"Long Sword",1,8,1
+7,"Battle Axe",1,8,1
+8,"Mace",2,7,0
+9,"Broad Sword",2,7,1
+10,"Scimitar",2,8,1
+11,"Hammer",2,8,0
+12,"Halberd",1,10,1
+13,"Trident",2,10,1
+14,"Morning Star",2,10,0
+15,"Bastard Sword",2,12,1
+16,"Two Handed Sword",3,20,1
+1,"Heal Potion",0,5,8
+2,"Magic Missile",1,8,14
+3,"Lightning Bolt",1,15,18
+4,"Kzar's Ointment",0,10,15
+5,"Fireball",1,20,25
+6,"Efreeti Bottle",1,20,30
+7,"Holy Water",1,25,30
+8,"Potion of Life",0,12,20
+9,"Death Bolt",1,40,55
+"Leather",2
+"Studded leather",3
+"Ring mail",4
+"Scale mail",5
+"Chain mail",6
+"Banded mail",8
+"Splint mail",10
+"Plate mail",12
+"Field plate",15
+
